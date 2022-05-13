@@ -7,7 +7,6 @@ import {
   faAddressCard,
   faAd,
   faAddressBook,
-  faAdd,
   faAdjust,
   faAlignJustify,
   faAlignLeft,
@@ -236,7 +235,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>backspace</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -245,7 +244,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>bars</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -254,7 +253,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>bell</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -263,7 +262,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>bell-slash</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -272,7 +271,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>binoculars</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -281,7 +280,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>bolt</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -290,7 +289,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>book</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -299,7 +298,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>book-open</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -308,7 +307,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>briefcase</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -317,7 +316,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>broom</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -326,7 +325,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>building</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -335,7 +334,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>bullhorn</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -344,7 +343,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>business-time</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -353,7 +352,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>calendar-check</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -362,7 +361,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>caret-down</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -371,7 +370,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>caret-right</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -380,7 +379,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>cart-arrow-down</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -389,7 +388,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>chalkboard</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -398,7 +397,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>chalkboard-teacher</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -407,7 +406,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>chart-bar</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -416,7 +415,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>chart-line</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -425,7 +424,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>chart-pie</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -434,7 +433,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>check</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -443,7 +442,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>check-double</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -452,7 +451,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>check-square</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -461,7 +460,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>cloud-download-alt</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -470,7 +469,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>cloud-upload-alt</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -479,7 +478,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>code</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -488,7 +487,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>cog</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -497,7 +496,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>cogs</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -506,7 +505,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>copy</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -560,7 +559,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>dollar-sign</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -569,7 +568,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>dolly-flatbed</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -578,7 +577,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>download</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -587,7 +586,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>edit</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -596,7 +595,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>envelope</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -605,7 +604,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>eye</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -614,7 +613,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>eye-slash</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -623,7 +622,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>fighter-jet</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -632,7 +631,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>file</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -641,7 +640,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>file-alt</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -650,7 +649,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>file-import</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -659,7 +658,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>file-pdf</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -668,7 +667,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>file-signature</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -677,7 +676,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>file-upload</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -686,7 +685,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>flag</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -695,7 +694,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>folder</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -704,7 +703,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>folder-minus</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -713,7 +712,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>folder-open</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -722,7 +721,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>globe-americas</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -731,7 +730,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>hammer</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -740,7 +739,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>hand-holding</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -749,7 +748,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>home</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -758,7 +757,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>id-card</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -766,7 +765,7 @@ export default function IconsMenu() {
           </Item>
         </Grid>
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>id-card-alt</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -775,7 +774,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>images</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -784,7 +783,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>laptop-code</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -793,7 +792,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>link</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -802,7 +801,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>list</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -811,7 +810,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>list-alt</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -820,7 +819,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>list-ol</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -829,7 +828,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>lock</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -838,7 +837,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>lock-open</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -847,7 +846,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>mobile</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -856,7 +855,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>money-check</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -865,7 +864,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>mug-hot</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -874,7 +873,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>paste</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -883,7 +882,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>pen</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -892,7 +891,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>percent</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -901,7 +900,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>phone-square</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -910,7 +909,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>plug</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -919,7 +918,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>plus-circle</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -928,7 +927,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>poll</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -937,7 +936,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>poll-h</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -946,7 +945,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>power-off</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -955,7 +954,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>print</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -964,7 +963,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>qrcode</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -973,7 +972,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>question-circle</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -982,7 +981,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>retweet</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -991,7 +990,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>save</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1000,7 +999,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>search</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1009,7 +1008,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>search-minus</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1018,7 +1017,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>search-plus</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1027,7 +1026,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>share</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1036,7 +1035,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>shipping-fast</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1045,7 +1044,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>shopping-bag</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1054,7 +1053,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>shopping-cart</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1063,7 +1062,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>sitemap</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1072,7 +1071,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>sort-alpha-down</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1081,7 +1080,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>sort-amount-down</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1090,7 +1089,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>store</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1099,7 +1098,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>suitcase</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1108,7 +1107,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>sync</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1117,7 +1116,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>thumbtack</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1126,7 +1125,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>toggle-off</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1135,7 +1134,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>trash</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1144,7 +1143,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>user</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1153,7 +1152,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>user-check</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1162,7 +1161,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>user-cog</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
@@ -1171,7 +1170,7 @@ export default function IconsMenu() {
         </Grid>
 
         <Grid item xs={8}>
-          <Item>add</Item>
+          <Item>user-edit</Item>
         </Grid>
         <Grid item xs={4}>
           <Item>
