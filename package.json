@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@fortawesome/fontawesome-svg-core": "6.1.1",
+    "@fortawesome/free-solid-svg-icons": "6.1.1",
+    "@fortawesome/react-fontawesome": "0.1.18",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.6.4/docs/data/material/components/grid/BasicGrid.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "name": "basicgrid-material-demo-forked",
+  "title": "BasicGrid Material Demo",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
